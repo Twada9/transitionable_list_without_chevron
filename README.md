@@ -1,1 +1,2 @@
 # transitionable_list_without_chevron
+リストのセルから画面遷移をできる様にすると自動で矢印がついてしまうので、矢印を表示しないViewを作成
